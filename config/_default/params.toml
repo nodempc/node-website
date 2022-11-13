@@ -34,7 +34,7 @@ mainSections = ["posts"]
   showMoreLinkDest = "/posts"
   cardView = false
   cardViewScreenWidth = false
-  layoutBackgroundBlur = true # only used when layout equals background
+  layoutBackgroundBlur = false # only used when layout equals background
 
 [article]
   showDate = true
@@ -44,7 +44,7 @@ mainSections = ["posts"]
   showAuthor = false
   showHero = true
   heroStyle = "background" # valid options: basic, big, background
-  layoutBackgroundBlur = true # only used when heroStyle equals background
+  layoutBackgroundBlur = false # only used when heroStyle equals background
   showBreadcrumbs = true
   showDraftLabel = true
   showEdit = false
