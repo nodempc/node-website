@@ -1,0 +1,9 @@
+{
+    "name": "Navid Tawsif",
+    "image" : "img/author_navid.jpg",
+    "bio": "President",
+    "social": [
+        { "instagram": "https://instagram.com/colossal_pepe" },
+        { "github": "https://github.com/colossal-pepe" }
+    ]
+}
