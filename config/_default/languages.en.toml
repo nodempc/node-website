@@ -13,10 +13,10 @@ description = "My awesome website"
 dateFormat = "2 January 2006"
 
 [author]
-  name = "Hello, Node!"
+  name = "Node"
   image = ""
-  headline = "“I want to live! Take me out to the sea with you!” - Nico Robin"
-  bio = "where th does this show up???"
+  headline = "Mathematics and Programming Club"
+  bio = "Node is maths and programming club."
   links = [
   #   { email = "mailto:hello@your_domain.com" },
   #   { link = "https://link-to-some-website.com/" },
