@@ -1,9 +1,10 @@
 {
     "name": "Navid Tawsif",
-    "image" : "img/navid_tawsif.jpg",
+    "image": "img/navid_tawsif.jpg",
     "bio": "President @ Node",
     "social": [
-        { "instagram": "https://instagram.com/colossal_pepe" },
-        { "github": "https://github.com/colossal-pepe" }
+        { "facebook": "https://www.facebook.com/navid.tawsif/" },
+        { "github": "https://github.com/colossal-pepe" },
+        { "instagram": "https://instagram.com/colossal_pepe" }
     ]
 }

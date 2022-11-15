@@ -11,14 +11,19 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
+  name = "Join"
+  url = "https://docs.google.com/forms/d/e/1FAIpQLSdElN3BA2mJZpMfSiFXALVu-GRVnDrywjQMg9ISs_9TSGwZtQ/viewform?usp=sf_link"
+  weight = 10
+
+[[main]]
   name = "About"
   pageRef = "about"
-  weight = 10
+  weight = 20
 
 [[main]]
   name = "Posts"
   pageRef = "posts"
-  weight = 20
+  weight = 30
 
 #[[main]]
 #  name = "Categories"

@@ -1,0 +1,9 @@
+{
+    "name": "Syed Masrur Ahmed",
+    "image": "img/syed_masrur_ahmed.jpg",
+    "bio": "Vice-President @ Node",
+    "social": [
+        { "facebook": "https://www.facebook.com/syedmasrur.ahmed.12" },
+        { "instagram": "https://instagram.com/jambura" }
+    ]
+}

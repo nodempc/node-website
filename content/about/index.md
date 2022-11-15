@@ -23,6 +23,8 @@ Here is my picture and my favourite food is ammur tehari.
 
 ### Syed Masrur Ahmed, Vice-President
 
+![Syed Masrur Ahmed](img/syed_masrur_ahmed.jpg)
+
 Don't have his picture but I think his favourite food is president er ammur tehari.
 
 ### Partha Sharma, Treasurer
