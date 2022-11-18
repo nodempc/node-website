@@ -3,8 +3,8 @@ title: Club goals, activites and why you should join!
 date: 2022-11-14
 authors:
     - "navid_tawsif"
+    - "syed_masrur_ahmed"
 summary: "Detailed club information."
-tags: ["pinned"]
 ---
 
 ## Introduction

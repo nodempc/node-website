@@ -12,7 +12,8 @@ autoSwitchAppearance = false
 enableSearch = true
 enableCodeCopy = true
 
-mainSections = ["pinned"]
+pinned = ["Club goals, activites and why you should join!"]
+mainSections = []
 # robots = ""
 
 [header]
@@ -56,7 +57,7 @@ mainSections = ["pinned"]
   invertPagination = false
   showReadingTime = false
   showTableOfContents = true
-  showTaxonomies = false 
+  showTaxonomies = true 
   showAuthorsBadges = false 
   showWordCount = false
   showSummary = true
