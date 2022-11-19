@@ -1,6 +1,6 @@
 ---
 title: Club goals, activites and why you should join!
-date: 2022-11-14
+date: 2022-10-22
 authors:
     - "navid_tawsif"
     - "syed_masrur_ahmed"

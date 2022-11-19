@@ -12,7 +12,7 @@ autoSwitchAppearance = false
 enableSearch = true
 enableCodeCopy = true
 
-pinned = ["Club goals, activites and why you should join!"]
+pinned = ["Club goals, activites and why you should join!", "Welcome meeting"]
 mainSections = []
 # robots = ""
 

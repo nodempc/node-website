@@ -3,9 +3,9 @@ title: About Node
 showDate: false
 ---
 
-{{< lead >}}
+{{<lead >}}
 Node - A Maths and Programming Club :smirk_cat:
-{{</ lead >}}
+{{</lead >}}
 
 ## What is Node?
 
