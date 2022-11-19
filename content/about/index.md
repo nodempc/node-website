@@ -13,7 +13,7 @@ Node was founded to cultivate an interest for maths and programming in students.
 
 ## A little bit about the staff
 
-Every (great) club has (great) staff. I'll probably need to make this section anyways because we're also doing this as an ECA so here we go.
+Every (great) club has (great) staff. Here is a some information on them.
 
 ### Navid Tawsif, President
 
@@ -25,10 +25,22 @@ Here is my picture and my favourite food is ammur tehari.
 
 ![Syed Masrur Ahmed](img/syed_masrur_ahmed.jpg)
 
-Don't have his picture but I think his favourite food is president er ammur tehari.
+Or favourite food o ammur tehari.
 
 ### Partha Sharma, Treasurer
 
 ![Partha Sharma](img/partha_sharma.jpg)
 
 Here is Partha's picture and he was a goalkeeper.
+
+### Mahfuzur Rahman, Executive Member
+
+![Mahfuzur Rahman](img/mahfuzur_rahman.jpg)
+
+Here is Mahfuzur Rahman's picture.
+
+### Monaiza Shahzadi, Executive Member
+
+![Monaiza Shahzadi](img/monaiza_shahzadi.jpg)
+
+Here is Monaiza Shahzadi's picture.
