@@ -49,6 +49,6 @@ Currently doesn't have a quote of his own.
 
 ![Monaiza Shahzadi](img/monaiza_shahzadi.jpg)
 
-> &ldquo; I'm here if you need help burying anyone. &rdquo;
+> &ldquo; Some minds can make up thousands of possibilities one can think of in a given situation, and still choose the one most beneficially stupid in all ways. &rdquo;
 >
 > \- Monaiza Shahzadi
