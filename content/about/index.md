@@ -13,34 +13,42 @@ Node was founded to cultivate an interest for maths and programming in students.
 
 ## A little bit about the staff
 
-Every (great) club has (great) staff. Here is a some information on them.
+Every (great) club has (great) staff. Here is their feelings about the club (or otherwise).
 
 ### Navid Tawsif, President
 
 ![Navid Tawsif](img/navid_tawsif.jpg)
 
-Here is my picture and my favourite food is ammur tehari.
+> &ldquo; Going over to Masrur's house to play Pokemon Violet. &rdquo;
+> 
+> \- Navid Tawsif
 
 ### Syed Masrur Ahmed, Vice-President
 
 ![Syed Masrur Ahmed](img/syed_masrur_ahmed.jpg)
 
-Or favourite food o ammur tehari.
+> &ldquo; Playing Pokemon Violet. &rdquo;
+>
+> \- Syed Masrur Ahmed
 
 ### Partha Sharma, Treasurer
 
 ![Partha Sharma](img/partha_sharma.jpg)
 
-Here is Partha's picture and he was a goalkeeper.
+> &ldquo; This club has the potential to be an extremely useful waste of time. &rdquo;
+> 
+> \- Partha Sharma
 
 ### Mahfuzur Rahman, Executive Member
 
 ![Mahfuzur Rahman](img/mahfuzur_rahman.jpg)
 
-Here is Mahfuzur Rahman's picture.
+Currently doesn't have a quote of his own.
 
 ### Monaiza Shahzadi, Executive Member
 
 ![Monaiza Shahzadi](img/monaiza_shahzadi.jpg)
 
-Here is Monaiza Shahzadi's picture.
+> &ldquo; I'm here if you need help burying anyone. &rdquo;
+>
+> \- Monaiza Shahzadi
