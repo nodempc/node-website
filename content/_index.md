@@ -1,5 +1,5 @@
 ---
-title: "Hello, Node!"
+title: Hello, Node!
 description: "Node - A club dedicated to mathematics and programming."
 ---
 

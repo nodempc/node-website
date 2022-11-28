@@ -4,8 +4,8 @@ date: 2022-11-19
 authors:
     - "navid_tawsif"
 summary: Answering how nCr gives the element in the n-th row and r-th column of Pascal's Triangle.
-categories: ["recreational"]
-tags: ["Mathematics", "combinatorics"]
+categories: ["Recreational"]
+tags: ["mathematics", "combinatorics"]
 ---
 {{<katex>}}
 

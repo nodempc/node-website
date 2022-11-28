@@ -14,9 +14,9 @@ dateFormat = "2 January 2006"
 
 [author]
   name = "Node"
-  image = ""
+  image = "img/logo_banner.jpg"
   headline = "Maths and Programming Club"
-  bio = "Node is maths and programming club."
+  bio = "A very weird club"
   links = [
   #   { email = "mailto:hello@your_domain.com" },
   #   { link = "https://link-to-some-website.com/" },

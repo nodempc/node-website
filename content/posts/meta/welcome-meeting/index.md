@@ -1,10 +1,12 @@
 ---
 title: Welcome meeting
 date: 2022-11-12
+showAuthor: true
 authors:
     - "navid_tawsif"
     - "syed_masrur_ahmed"
     - "mahfuzur_rahman"
+categories: ["Meta"]
 ---
 
 {{<katex>}}
