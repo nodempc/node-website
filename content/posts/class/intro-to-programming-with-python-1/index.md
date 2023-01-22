@@ -3,12 +3,11 @@ title: Getting started with Python
 date: 2022-11-28
 authors:
     - "navid_tawsif"
-summary: Write-up of first "Programming" class.
+summary: Write-up of first "Programming" class in Python.
 series: ["Intro to Programming with Python"]
 series_order: 1
 categories: ["Classes and lectures"]
 tags: ["programming", "python", "beginner"]
-draft: true
 ---
 
 ## Introduction
